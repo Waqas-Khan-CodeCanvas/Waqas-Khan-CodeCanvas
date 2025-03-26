@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Waqas Khan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Waqas Khan</h1> -->
 
-Hi, I’m **Waqas Khan**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript Vue.js**, and **React.js**. Currently, I’m expanding my backend knowledge with **php , Laravel**, and **MySQL**, working towards becoming a full-stack developer.
+# Hi <img src="wave.svg" width="24px" style="vertical-align: middle; margin-right: -4px;">, I'm Waqas Khan
 
-I’m looking to collaborate on innovative projects in the web development and tech industry.
+Hi, I'm **Waqas Khan**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript Vue.js**, and **React.js**. Currently, I'm expanding my backend knowledge with **php , Laravel**, and **MySQL**, working towards becoming a full-stack developer.
 
+I'm looking to collaborate on innovative projects in the web development and tech industry.
 
 ---
-
 
 ## 🛠️ Languages and Tools
 
@@ -67,5 +67,3 @@ I’m looking to collaborate on innovative projects in the web development and t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" />
 </picture>
-
-
