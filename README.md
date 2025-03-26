@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Waqas Khan</h1> -->
+<h1 align="center">Hi 👋, I'm Waqas Khan</h1>
 
 # Hi <img src="wave.svg" width="24px" style="vertical-align: middle; margin-right: -4px;">, I'm Waqas Khan
 
